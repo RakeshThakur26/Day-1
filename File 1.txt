@@ -1,2 +1,2 @@
 This is the text document
-This is seconf line
+This is second line
